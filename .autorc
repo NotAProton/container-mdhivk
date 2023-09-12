@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "NotAProton",
+  "repo": "container-mdhivk",
+  "name": "NotAProton",
+  "email": "81463636+NotAProton@users.noreply.github.com",
+}
